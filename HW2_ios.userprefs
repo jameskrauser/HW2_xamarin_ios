@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{304EED1A-A95F-4C79-AA9E-F0C73BFB2627}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW2_ios/EmployeesTVS.cs">
+    <Files>
+      <File FileName="HW2_ios/Main.storyboard" />
+      <File FileName="HW2_ios/Employeecell.cs" Line="18" Column="58" />
+      <File FileName="HW2_ios/ViewController.cs" Line="44" Column="54" />
+      <File FileName="HW2_ios/Employee.cs" Line="20" Column="13" />
+      <File FileName="HW2_ios/EmployeesTVS.cs" Line="22" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HW2__ios PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.71580F05-9AA2-4C60-8CE9-9B7A4026E865">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HW2__ios>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

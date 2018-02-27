@@ -1,0 +1,9 @@
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/bin/iPhoneSimulator/Debug/HW2_ios.exe
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/bin/iPhoneSimulator/Debug/HW2_ios.pdb
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/obj/iPhoneSimulator/Debug/HW2_ios.csproj.CoreCompileInputs.cache
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/obj/iPhoneSimulator/Debug/HW2_ios.exe
+/Users/jameskrauser/Documents/Xamarin_pj/HW2_ios/HW2_ios/obj/iPhoneSimulator/Debug/HW2_ios.pdb
