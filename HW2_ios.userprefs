@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{304EED1A-A95F-4C79-AA9E-F0C73BFB2627}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HW2_ios/EmployeesTVS.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW2_ios/Employeecell.cs">
     <Files>
       <File FileName="HW2_ios/Main.storyboard" />
-      <File FileName="HW2_ios/Employeecell.cs" Line="18" Column="58" />
-      <File FileName="HW2_ios/ViewController.cs" Line="44" Column="54" />
-      <File FileName="HW2_ios/Employee.cs" Line="20" Column="13" />
-      <File FileName="HW2_ios/EmployeesTVS.cs" Line="22" Column="19" />
+      <File FileName="HW2_ios/Employeecell.cs" Line="5" Column="18" />
+      <File FileName="HW2_ios/ViewController.cs" Line="20" Column="18" />
+      <File FileName="HW2_ios/EmployeesTVS.cs" Line="33" Column="10" />
+      <File FileName="HW2_ios/Employee.cs" Line="17" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

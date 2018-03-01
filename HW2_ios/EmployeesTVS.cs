@@ -20,11 +20,8 @@ namespace HW2_ios
             Contract.Ensures(Contract.Result<UITableViewCell>() != null);
             // throw new NotImplementedException();
             var cell = (Employeecell) tableView.DequeueReusableCell("cell_id", indexPath);
-
             var employee = employees[indexPath.Row];
-
             cell.UpdateCell( employee );
-
             return cell;
 
         }

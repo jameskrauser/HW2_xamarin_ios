@@ -8,12 +8,8 @@
             get;
             set;
         }
-        public string Department
-        {
-            get;
-            set;
-        }
-        public string Description
+      
+        public string myurl
         {
             get;
             set;

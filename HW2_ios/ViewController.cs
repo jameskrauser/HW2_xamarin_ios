@@ -18,27 +18,27 @@ namespace HW2_ios
             {
                 new Employee
                 {
-                    Fullname = "james",
-                    Department = "TP6",
-                    Description = "iOS engineer"
+                    Fullname = "apple",
+                    
+                    myurl = "https://www.apple.com/tw/"
                 },
                 new Employee
                 {
-                    Fullname = "aaa",
-                    Department = "TP6",
-                    Description = "iOS engineer"
+                    Fullname = "HTC",
+                     
+                    myurl = "http://www.htc.com/tw/"
                 },
                 new Employee
                 {
-                    Fullname = "bbb",
-                    Department = "TP6",
-                    Description = "iOS engineer"
+                    Fullname = "Nike",
+                   
+                    myurl = "https://www.nike.com/tw/zh_tw/"
                 },
                 new Employee
                 {
-                    Fullname = "ccc",
-                    Department = "TP6",
-                    Description = "iOS engineer"
+                    Fullname = "adidas",
+                    
+                    myurl = "http://www.adidas.com.tw"
                 }
             };
             EmployeesTableView.Source = new EmployeesTVS(employees);

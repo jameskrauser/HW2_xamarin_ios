@@ -16,26 +16,21 @@ namespace HW2_ios
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel DepartmentLabel { get; set; }
-
-        [Outlet]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel DescriptionLabel { get; set; }
+        UIKit.UIButton mybutton { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UILabel NameLabel { get; set; }
 
+        [Action ("UIButton1016_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void UIButton1016_TouchUpInside (UIKit.UIButton sender);
+
         void ReleaseDesignerOutlets ()
         {
-            if (DepartmentLabel != null) {
-                DepartmentLabel.Dispose ();
-                DepartmentLabel = null;
-            }
-
-            if (DescriptionLabel != null) {
-                DescriptionLabel.Dispose ();
-                DescriptionLabel = null;
+            if (mybutton != null) {
+                mybutton.Dispose ();
+                mybutton = null;
             }
 
             if (NameLabel != null) {

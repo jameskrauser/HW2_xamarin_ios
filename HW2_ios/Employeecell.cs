@@ -6,6 +6,12 @@ namespace HW2_ios
 {
     public partial class Employeecell : UITableViewCell
     {
+        partial void UIButton1016_TouchUpInside(UIButton sender)
+        {
+            //throw new NotImplementedException();
+            Console.WriteLine("[button] click  "  );
+        }
+
         public Employeecell (IntPtr handle) : base (handle)
         {
         }
@@ -14,8 +20,8 @@ namespace HW2_ios
         {
             //throw new NotImplementedException();
             NameLabel.Text = employee.Fullname;
-            DepartmentLabel.Text = employee.Department;
-            DescriptionLabel.Text = employee.Description;
+            //mybutton.SetTitle(  employee.myurl , UIControlState.Normal );
+
         }
     }
 }
